@@ -6,4 +6,5 @@
 ![gambar7](https://user-images.githubusercontent.com/115950790/204271334-e34105a0-0c2c-4a0c-9208-03d6db3431ab.png)
 
 ## Tugas Praktikum
-
+#### ![image](https://user-images.githubusercontent.com/115950790/204271683-aa26d588-5779-4079-baad-5398f9e6717b.png)
+#### Berfungsi Menampilkan Menu ketika Tekan L/l maka akan melihat data T/t berfungsi untuk menambah data baru U/u Untuk merubah salah satu data yang ada
