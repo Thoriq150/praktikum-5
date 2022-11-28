@@ -14,3 +14,7 @@
 #### Berikut hasilnya~~~~~~~~
 #### ![Screenshot (44)](https://user-images.githubusercontent.com/115950790/204272506-73c5f645-64e4-49c6-9818-d50446f6b823.png)
 
+## prosesnya
+#### ![Screenshot (41)](https://user-images.githubusercontent.com/115950790/204272843-4f9df652-2fee-4f9b-918b-a88cedb8de4d.png)
+#### ![Screenshot (42)](https://user-images.githubusercontent.com/115950790/204272880-25225624-ebad-4384-ae9c-0fb6066ea5c6.png)
+#### ![Screenshot (43)](https://user-images.githubusercontent.com/115950790/204272926-466ab351-8fd9-41d1-809b-d27b8c13a462.png)
