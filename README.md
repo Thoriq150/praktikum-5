@@ -6,5 +6,7 @@
 ![gambar7](https://user-images.githubusercontent.com/115950790/204271334-e34105a0-0c2c-4a0c-9208-03d6db3431ab.png)
 
 ## Tugas Praktikum
-#### ![image](https://user-images.githubusercontent.com/115950790/204271683-aa26d588-5779-4079-baad-5398f9e6717b.png)
+#### 1- ![image](https://user-images.githubusercontent.com/115950790/204271683-aa26d588-5779-4079-baad-5398f9e6717b.png)
 #### Berfungsi Menampilkan Menu ketika Tekan L/l maka akan melihat data T/t berfungsi untuk menambah data baru U/u Untuk merubah salah satu data yang ada
+#### 2- ![image](https://user-images.githubusercontent.com/115950790/204271997-38f18656-555d-4588-a6a9-6019f802987d.png)
+#### C/c Untuk Mencari data yang ada image Karena data masih kosong ketika kita isi menu dengan l/L maka data tidak akan tampil Maka dari itu kita harus menambah data terlebih dahulu dengan T/t u/U akan merubah data yang ada ketika kita sudah menambah data H/h menghapus data C/c Mencari data
