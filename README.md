@@ -9,4 +9,8 @@
 #### 1- ![image](https://user-images.githubusercontent.com/115950790/204271683-aa26d588-5779-4079-baad-5398f9e6717b.png)
 #### Berfungsi Menampilkan Menu ketika Tekan L/l maka akan melihat data T/t berfungsi untuk menambah data baru U/u Untuk merubah salah satu data yang ada
 #### 2- ![image](https://user-images.githubusercontent.com/115950790/204271997-38f18656-555d-4588-a6a9-6019f802987d.png)
-#### C/c Untuk Mencari data yang ada image Karena data masih kosong ketika kita isi menu dengan l/L maka data tidak akan tampil Maka dari itu kita harus menambah data terlebih dahulu dengan T/t u/U akan merubah data yang ada ketika kita sudah menambah data H/h menghapus data C/c Mencari data
+#### C/c Untuk Mencari data yang ada image Karena data masih kosong ketika kita isi menu dengan l/L maka data tidak akan tampil Maka dari itu kita harus menambah data terlebih dahulu dengan T/t u/U akan merubah data yang ada ketika kita sudah menambah data H/h menghapus data C/c Mencari data.
+
+#### Berikut hasilnya~~~~~~~~
+#### ![Screenshot (44)](https://user-images.githubusercontent.com/115950790/204272506-73c5f645-64e4-49c6-9818-d50446f6b823.png)
+
